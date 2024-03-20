@@ -1,0 +1,11 @@
+{
+  "name": "example-github-automation",
+  "version": "1.0.0",
+  "description": "Simple demo for tests automation with Github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
